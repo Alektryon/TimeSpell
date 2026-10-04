@@ -1,4 +1,0 @@
-<Widget xmlns:emg="http://www.emergetk.com/">
-	<emg:Image ClassName="shadow" Url="/EmergeTk/Images/shadow.png"/>
-	<emg:Pane Id="Front"/>
-</Widget>

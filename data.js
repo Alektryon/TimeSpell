@@ -118,7 +118,7 @@ const SEAL_DESCRIPTIONS = [
   "White World-Bridger(CIMI) <u>Equalizes</u> and emphasizes <u>Death (span dimensions)</u>.",
   "Blue Hand (MANIK) <u>Knows</u> and emphasizes <u>Accomplishment (heals)</u>.",
   "Yellow Star (LAMAT) <u>Beautifies</u> and emphasizes <u>Elegance</u>.",
-  "Red Moon (MULAC) <u>Purifies</u> and emphasizes <u>Universal Water</u>.",
+  "Red Moon (MULUC) <u>Purifies</u> and emphasizes <u>Universal Water</u>.",
   "White Dog (OC) <u>Loves</u> and emphasizes <u>Heart (truth)</u>.",
   "Blue Monkey (CHUEN) <u>Plays</u> and emphasizes <u>Magic</u>.",
   "Yellow Human (EB) <u>Influences</u> and emphasizes <u>Free Will</u>.",

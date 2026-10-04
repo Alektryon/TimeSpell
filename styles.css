@@ -1,0 +1,60 @@
+body {
+  margin: 8px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.program {
+  background-image: url("BGCLOUDS.JPG");
+}
+
+.information {
+  background-color: mediumaquamarine;
+}
+
+.information-placeholder {
+  margin-top: 54px;
+  text-align: center;
+}
+
+.date-form table {
+  border-spacing: 2px;
+}
+
+.date-form th {
+  text-align: left;
+}
+
+.oracle-grid {
+  width: 300px;
+  border-collapse: collapse;
+}
+
+.oracle-grid td {
+  width: 100px;
+  padding: 0;
+}
+
+.oracle-grid .group-gap {
+  height: 30px;
+}
+
+.symbol-image {
+  width: 100px;
+  height: 100px;
+  border: 0;
+  vertical-align: bottom;
+}
+
+.tone-image {
+  height: 30px;
+}
+
+.reading {
+  font-weight: bold;
+}
+
+.reading hr {
+  width: 300px;
+  margin-left: 0;
+}

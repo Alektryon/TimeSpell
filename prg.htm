@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>TimeSpell Day Dialer</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="data.js" defer></script>
+    <script src="oracle.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body class="program">
+    <form id="date-form" class="date-form">
+      <table>
+        <thead>
+          <tr>
+            <th><label for="year">Year</label></th>
+            <th><label for="month">Month</label></th>
+            <th><label for="day">Day</label></th>
+            <td><button id="help-button" type="button">Information</button></td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><input id="year" name="year" type="text" size="4" maxlength="4"></td>
+            <td><input id="month" name="month" type="text" size="4" maxlength="2"></td>
+            <td><input id="day" name="day" type="text" size="4" maxlength="2"></td>
+            <td><button type="submit">Dial</button></td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+    <table class="oracle-grid" aria-label="TimeSpell symbols">
+      <tbody>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="tone">
+                  <img id="tone" class="symbol-image tone-image"
+                    src="TONE5.GIF" alt="tone" width="100" height="30">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="guide">
+                  <img id="guide" class="symbol-image"
+                    src="GLYPH12.GIF" alt="guide" width="100" height="100">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>
+                <a href="#" data-symbol="antipode">
+                  <img id="antipode" class="symbol-image"
+                    src="GLYPH14.GIF" alt="antipode" width="100" height="100">
+                </a>
+              </td>
+              <td>
+                <a href="#" data-symbol="seal">
+                  <img id="seal" class="symbol-image"
+                    src="GLYPH4.GIF" alt="seal" width="100" height="100">
+                </a>
+              </td>
+              <td>
+                <a href="#" data-symbol="analog">
+                  <img id="analog" class="symbol-image"
+                    src="GLYPH15.GIF" alt="analog" width="100" height="100">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="occult">
+                  <img id="occult" class="symbol-image"
+                    src="GLYPH17.GIF" alt="occult" width="100" height="100">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+            <tr class="group-gap">
+              <td colspan="3"></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="wavespellTone">
+                  <img id="wavespellTone" class="symbol-image tone-image"
+                    src="TONE1.GIF" alt="wavespell Tone" width="100" height="30">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="wavespellSeal">
+                  <img id="wavespellSeal" class="symbol-image"
+                    src="GLYPH20.GIF" alt="wavespell Seal" width="100" height="100">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+            <tr class="group-gap">
+              <td colspan="3"></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="yearTone">
+                  <img id="yearTone" class="symbol-image tone-image"
+                    src="TONE5.GIF" alt="year Tone" width="100" height="30">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <a href="#" data-symbol="yearSeal">
+                  <img id="yearSeal" class="symbol-image"
+                    src="GLYPH4.GIF" alt="year Seal" width="100" height="100">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+      </tbody>
+    </table>
+    <!-- Original oracle copyright November 1997 jonic. -->
+  </body>
+</html>

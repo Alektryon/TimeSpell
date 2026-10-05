@@ -16,7 +16,7 @@ Based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell) web app
 ### Examples:<br>
 * José Argüelles (Valum Votan) was born on Kin 216, Yellow Galactic Warrior -> Guide<br>
   is Kin 60, Yellow Galactic Sun (the Galactic Signature of Pacal Votan);<br>
-* Lloydine Burris (Bolon Ik) was born on the Year of the Yellow Galactic Warrior, Kin<br>
+* Lloydine Burris (Bolon Ik) was born in the Year of the Yellow Galactic Warrior, Kin<br>
   216 (Valum Votan);<br>
 * Stephanie South (Red Queen) was born on Kin 130, White Cosmic Dog. This Kin is the<br>
   Guide of the Year 2012-2013, White Cosmic World-Bridger, Kin 26, which is also one<br>

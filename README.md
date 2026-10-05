@@ -1,7 +1,7 @@
 ## TimeSpell Oracle
 
 Calculator for my experimental synchronometer "TimeSpell Oracle".<br>
-Based on the [Dreamspell](https://github.com/damienjoldersma/DreamSpell) web app by [Damien Joldersma](https://github.com/damienjoldersma).<br>
+Based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell) web app by [Damien Joldersma](https://github.com/damienjoldersma).<br>
 <br>
 ### TimeSpell Oracle correlation:<br>
 * New Year: August 17. Dates before August 17 belong to the preceding TimeSpell year.<br>

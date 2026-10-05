@@ -1,7 +1,7 @@
 ## TimeSpell Oracle
 
 Calculator for my experimental synchronometer "TimeSpell Oracle".<br>
-Based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell) web app by [Damien Joldersma](https://github.com/damienjoldersma).<br>
+Entirely based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell) web app by [Damien Joldersma](https://github.com/damienjoldersma).<br>
 
 ### TimeSpell Oracle correlation:<br>
 * Anchor Dates: August 16-17, 1987 (Harmonic Convergence).<br>

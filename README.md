@@ -5,6 +5,7 @@ Entirely based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell
 
 ### TimeSpell Oracle correlation:<br>
 * Anchor Dates: ***August 16-17, 1987*** (Harmonic Convergence).<br>
+* 17 August 1987 was 1 Dragon, day 1 of the Magnetic Moon, year 1 Dragon (New Cycle).<br>
 * New Year: August 17. Dates before August 17 belong to the preceding TimeSpell year.<br>
 * Day tone: Dreamspell day tone minus 3, wrapped into 1 through 13.<br>
 * Day seal: Dreamspell day seal plus 5, wrapped into 1 through 20.<br>

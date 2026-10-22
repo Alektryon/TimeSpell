@@ -19,6 +19,6 @@ Entirely based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell
 * **José Arguelles** *("Valum Votan")* was born on Kin 216, Yellow Galactic Warrior,<br>
   whose Guide is Kin 60, Yellow Galactic Sun (Pacal Votan);<br>
 * **Stephanie South** *("Red Queen")* was born on Kin 130, White Cosmic Dog.
-* The TimeSpell Year 2012-2013 was White Cosmic World-Bridger, Kin 26, one of the 13<br>
+* The **TimeSpell Year 2012-2013** was White Cosmic World-Bridger, Kin 26, one of the 13<br>
   Clear Signs of Pacal Votan, and its Guide is White Cosmic Dog, Kin 130, the birth Kin<br>
   of Stephanie South.

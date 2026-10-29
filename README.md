@@ -22,9 +22,9 @@ Entirely based on the [DreamSpell](https://github.com/damienjoldersma/DreamSpell
 * The **TimeSpell Year 2012-2013** was White Cosmic World-Bridger, Kin 26, one of the 13<br>
   Clear Signs of Pacal Votan, and its Guide is White Cosmic Dog, Kin 130, the birth Kin<br>
   of Stephanie South.<br>
-* **Alberto Ruz Lhuillier**, the Mexican archaeologist who discovered the magnificent
-  chamber and tomb of King Pacal of Palenque, was born in the day of the Red Resonant
-  Moon (Kin 189) in the DreamSpell count and the corresponding Psi-Chrono Unit (PCU) was
-  White Self-Existing Wizard (Kin 134). In the TimeSpell count, it was the day White
-  Self-Existing Wizard (Kin 134), and the corresponding PCU was Red Resonant Moon
+* **Alberto Ruz Lhuillier**, the Mexican archaeologist who discovered the magnificent<br>
+  chamber and tomb of King Pacal of Palenque, was born in the day of the Red Resonant<br>
+  Moon (Kin 189) in the DreamSpell count and the corresponding Psi-Chrono Unit (PCU) was<br>
+  White Self-Existing Wizard (Kin 134). In the TimeSpell count, it was the day White<br>
+  Self-Existing Wizard (Kin 134), and the corresponding PCU was Red Resonant Moon<br>
   (Kin 189).
